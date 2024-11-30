@@ -15,14 +15,20 @@ Este é um sistema de biblioteca desenvolvido como parte do projeto para a disci
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)  
-  **Linguagem de Programação**: Utilizado para todo o desenvolvimento do sistema.
-  
-- ![Tkinter](https://img.shields.io/badge/Tkinter-8.x-lightgreen.svg)  
-  **Tkinter**: Framework para a criação de interfaces gráficas com Python. Foi utilizado para construir a interface visual interativa.
+### 🐍 **Python**
 
-- ![Datetime](https://img.shields.io/badge/Datetime-%20-blueviolet.svg)  
-  **Datetime**: Biblioteca padrão do Python para manipulação e exibição da data e hora atual.
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)  
+**Linguagem de Programação**: Utilizado para todo o desenvolvimento do sistema.
+
+### 🖼️ **Tkinter**
+
+![Tkinter Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Tkinter_logo.svg)  
+**Tkinter**: Framework para a criação de interfaces gráficas com Python. Foi utilizado para construir a interface visual interativa.
+
+### 📅 **Datetime**
+
+![Datetime Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Date_and_time_format.svg/200px-Date_and_time_format.svg.png)  
+**Datetime**: Biblioteca padrão do Python para manipulação e exibição da data e hora atual.
 
 ## Como Rodar o Projeto
 
