@@ -62,4 +62,5 @@ Certifique-se de ter o Python instalado em sua máquina. Você pode baixá-lo de
 ## Estrutura de Diretórios
 
 O repositório contém os seguintes arquivos:
-
+##📁 **SOM**
+##📁 **IMAGES**
