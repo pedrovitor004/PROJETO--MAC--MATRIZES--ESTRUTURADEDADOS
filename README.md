@@ -17,12 +17,12 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### 🐍 **Python**
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)  
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png)  
 **Linguagem de Programação**: Utilizado para todo o desenvolvimento do sistema.
 
 ### 🖼️ **Tkinter**
 
-![Tkinter Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Tkinter_logo.svg)  
+![Tkinter Logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Tkinter_logo.svg)  
 **Tkinter**: Framework para a criação de interfaces gráficas com Python. Foi utilizado para construir a interface visual interativa.
 
 ### 📅 **Datetime**
